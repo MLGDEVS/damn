@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body { 
+  font-family: 'Silkscreen', cursive;
+  background-color: black;
+  text-align: center
+}
+
+h1, h2, h4, a{
+	color: white;
+}
+
+h3 {
+	color: red;
+}
